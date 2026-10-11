@@ -3,10 +3,15 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 
 ## 每日中文报告
 
+- [2026-10-11 · PDF](QSL新项目/2026-10-11/report.pdf) · [文字版](QSL新项目/2026-10-11/report.md) · [清单](QSL新项目/2026-10-11/manifest.json)
+
 - [2026-10-10 · PDF](QSL新项目/2026-10-10/report.pdf) · [文字版](QSL新项目/2026-10-10/report.md) · [清单](QSL新项目/2026-10-10/manifest.json)
 - [2026-10-09 · PDF](QSL新项目/2026-10-09/report.pdf) · [文字版](QSL新项目/2026-10-09/report.md) · [清单](QSL新项目/2026-10-09/manifest.json)
 
 ## 已核实的独立 fork
+
+- [artcraft](https://github.com/qinshanliangengineer/artcraft)
+- [context-mode](https://github.com/qinshanliangengineer/context-mode)
 
 - [rea](https://github.com/qinshanliangengineer/rea)
 - [AnyPS5](https://github.com/qinshanliangengineer/AnyPS5)
