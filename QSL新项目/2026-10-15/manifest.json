@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-15",
+  "automation_id": "qsl-github",
+  "triggered_at": "2026-10-15T08:57:43.483+08:00",
+  "ranking": "GitHub Trending daily, all languages, page order",
+  "ranking_collected_at": "2026-10-15T09:03:25.749787+08:00",
+  "metadata_collected_at": "2026-10-15T09:07:21.314291+08:00",
+  "generated_at": "2026-10-15T09:09:45.694547+08:00",
+  "authenticated_login": "qinshanliangengineer",
+  "repositories": [
+    {
+      "repo": "morluto/rea",
+      "rank": 1,
+      "trending_total_stars": 242325,
+      "trending_daily_stars": 41034,
+      "language": "TypeScript",
+      "stars": 242317,
+      "license": "MIT",
+      "default_branch": "main",
+      "sha": "59f528f0e5bfd780e314e929db9ebf1ad65c1303",
+      "updated_at": "2026-10-15T01:03:12Z",
+      "pushed_at": "2026-10-15T01:02:32Z",
+      "readme_sha": "2be1774fc0e7229028fcaa99d367cb3e26633e6f",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "sha": "2d476d24fa5a9ae2ab35e5fd121494049eb2ee5d"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "rea-agents-6.5.0",
+          "published_at": "2026-10-14T12:32:45Z",
+          "url": "https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0"
+        }
+      ],
+      "fork_url": "https://github.com/qinshanliangengineer/rea",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "morluto/rea",
+      "source": "morluto/rea",
+      "comparison": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 1891,
+        "html_url": "https://github.com/morluto/rea/compare/59f528f0e5bfd780e314e929db9ebf1ad65c1303...qinshanliangengineer:main"
+      },
+      "readme_url": "https://github.com/morluto/rea/blob/59f528f0e5bfd780e314e929db9ebf1ad65c1303/README.md"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "rank": 2,
+      "trending_total_stars": 66374,
+      "trending_daily_stars": 3538,
+      "language": "Python",
+      "stars": 66374,
+      "license": "AGPL-3.0",
+      "default_branch": "main",
+      "sha": "6f0ed2ebeaf620bcea8a293cd210bba920b73622",
+      "updated_at": "2026-10-15T01:03:01Z",
+      "pushed_at": "2026-10-14T22:26:47Z",
+      "readme_sha": "6e281d91e881b6b07d60b57d7fb5f51b0076e8e1",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "sha": "be3f7b28e564e7dd05eaf59d64adba1a4065ac0e"
+        },
+        {
+          "path": "LICENSE-NOTICE.md",
+          "sha": "d5d0478f628e090883ef617ce23376050e94ba45"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v0.5.6",
+          "published_at": "2026-09-23T08:53:32Z",
+          "url": "https://github.com/debpalash/VoiceStudio/releases/tag/v0.5.6"
+        }
+      ],
+      "fork_url": "https://github.com/qinshanliangengineer/VoiceStudio",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "debpalash/VoiceStudio",
+      "source": "debpalash/VoiceStudio",
+      "comparison": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 10,
+        "html_url": "https://github.com/debpalash/VoiceStudio/compare/6f0ed2ebeaf620bcea8a293cd210bba920b73622...qinshanliangengineer:main"
+      },
+      "readme_url": "https://github.com/debpalash/VoiceStudio/blob/6f0ed2ebeaf620bcea8a293cd210bba920b73622/README.md"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "rank": 3,
+      "trending_total_stars": 29131,
+      "trending_daily_stars": 947,
+      "language": "TypeScript",
+      "stars": 29131,
+      "license": "NOASSERTION",
+      "default_branch": "main",
+      "sha": "655c67f9e1bb2d1c2a6db850447f1cfdcbbb1220",
+      "updated_at": "2026-10-15T01:02:57Z",
+      "pushed_at": "2026-10-14T22:18:40Z",
+      "readme_sha": "b796169524473691594af24995d21ca94027f7c7",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "sha": "15259beb88afda1c8790d41cdf948c9e0e4f211d"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v1.0.169",
+          "published_at": "2026-06-29T18:18:53Z",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v1.0.169"
+        }
+      ],
+      "fork_url": "https://github.com/qinshanliangengineer/context-mode",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "mksglu/context-mode",
+      "source": "mksglu/context-mode",
+      "comparison": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 7,
+        "html_url": "https://github.com/mksglu/context-mode/compare/655c67f9e1bb2d1c2a6db850447f1cfdcbbb1220...qinshanliangengineer:main"
+      },
+      "readme_url": "https://github.com/mksglu/context-mode/blob/655c67f9e1bb2d1c2a6db850447f1cfdcbbb1220/README.md"
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "rank": 4,
+      "trending_total_stars": 95456,
+      "trending_daily_stars": 52,
+      "language": "Shell",
+      "stars": 95457,
+      "license": "MIT",
+      "default_branch": "master",
+      "sha": "b1b3a0038c0666c7436cb5d383608b4b72c8300b",
+      "updated_at": "2026-10-15T01:05:31Z",
+      "pushed_at": "2026-10-10T04:34:41Z",
+      "readme_sha": "e9b4ff935f7041ae8366fee0910a940aee9f0594",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE.md",
+          "sha": "54a112f38dbad066c5558e51d0c3014403f46da7"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v0.40.8",
+          "published_at": "2026-09-21T02:26:02Z",
+          "url": "https://github.com/nvm-sh/nvm/releases/tag/v0.40.8"
+        }
+      ],
+      "fork_url": null,
+      "fork_status": "missing",
+      "readme_url": "https://github.com/nvm-sh/nvm/blob/b1b3a0038c0666c7436cb5d383608b4b72c8300b/README.md"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "rank": 5,
+      "trending_total_stars": 49342,
+      "trending_daily_stars": 163,
+      "language": "Python",
+      "stars": 49348,
+      "license": "MIT",
+      "default_branch": "main",
+      "sha": "a1043ef544e3a100c28e70a736b6cf32554d0677",
+      "updated_at": "2026-10-15T01:06:34Z",
+      "pushed_at": "2026-10-12T09:43:31Z",
+      "readme_sha": "3fcebf5c0e49e39dc87e5b577d0368d313124862",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE.md",
+          "sha": "eb246475fd5a66b9bb56176f3a718984632dd98d"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v2.72.0",
+          "published_at": "2026-10-01T22:42:08Z",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/releases/tag/v2.72.0"
+        }
+      ],
+      "fork_url": null,
+      "fork_status": "missing",
+      "readme_url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a1043ef544e3a100c28e70a736b6cf32554d0677/README.md"
+    }
+  ],
+  "validation": {
+    "text": "passed",
+    "pages": 6,
+    "links": 8,
+    "visual": "passed_all_6_pages"
+  },
+  "archive_status": "included_in_this_archive_commit_verification_in_local_receipt",
+  "notification_status": "prepared_for_final_delivery",
+  "artifacts": [
+    "report.pdf",
+    "report.md",
+    "manifest.json",
+    "trending.html",
+    "collection.json",
+    "metadata.json",
+    "analysis.json"
+  ],
+  "report_status": "complete",
+  "fork_overall_status": "partial_3_reused_2_unavailable",
+  "limitations": [
+    "No fork creation tool available; GitHub CLI not installed",
+    "nvm named-fork lookup returned 404; repository search failed twice",
+    "scientific-agent-skills named-fork lookup returned 404; repository search returned no results",
+    "Public source API incomplete response retried; original 09:03 ranking retained"
+  ]
+}
