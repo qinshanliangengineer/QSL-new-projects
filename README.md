@@ -3,6 +3,8 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 
 ## 每日中文报告
 
+- [2026-10-16 · PDF](QSL新项目/2026-10-16/report.pdf) · [文字版](QSL新项目/2026-10-16/report.md) · [清单](QSL新项目/2026-10-16/manifest.json) · 5 个已有 fork，已核实来源
+
 - [2026-10-15 · PDF](QSL新项目/2026-10-15/report.pdf) · [文字版](QSL新项目/2026-10-15/report.md) · [清单](QSL新项目/2026-10-15/manifest.json) · 3 个已有 fork，2 个未完成
 
 - [2026-10-13 · PDF](QSL新项目/2026-10-13/report.pdf) · [文字版](QSL新项目/2026-10-13/report.md) · [清单](QSL新项目/2026-10-13/manifest.json)
@@ -13,6 +15,10 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 - [2026-10-09 · PDF](QSL新项目/2026-10-09/report.pdf) · [文字版](QSL新项目/2026-10-09/report.md) · [清单](QSL新项目/2026-10-09/manifest.json)
 
 ## 已核实的独立 fork
+
+- [claude-plugins-official](https://github.com/qinshanliangengineer/claude-plugins-official)
+- [scientific-agent-skills](https://github.com/qinshanliangengineer/scientific-agent-skills)
+- [caveman](https://github.com/qinshanliangengineer/caveman)
 
 - [VoiceStudio](https://github.com/qinshanliangengineer/VoiceStudio)
 
@@ -35,4 +41,4 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 ## 2026-10-15 待完成的 fork
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm)：未确认可复用副本，当前连接无创建 fork 操作。
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)：未确认可复用副本，当前连接无创建 fork 操作。
+- [K-Dense-AI/scientific-agent-skills](https://github.com/qinshanliangengineer/scientific-agent-skills)：10月16日已确认账号内存在来源匹配的 fork。
