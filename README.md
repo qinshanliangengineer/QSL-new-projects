@@ -3,6 +3,8 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 
 ## 每日中文报告
 
+- [2026-10-17 · PDF](QSL新项目/2026-10-17/report.pdf) · [文字版](QSL新项目/2026-10-17/report.md) · [清单](QSL新项目/2026-10-17/manifest.json) · 5 个已有 fork，已核实来源
+
 - [2026-10-16 · PDF](QSL新项目/2026-10-16/report.pdf) · [文字版](QSL新项目/2026-10-16/report.md) · [清单](QSL新项目/2026-10-16/manifest.json) · 5 个已有 fork，已核实来源
 
 - [2026-10-15 · PDF](QSL新项目/2026-10-15/report.pdf) · [文字版](QSL新项目/2026-10-15/report.md) · [清单](QSL新项目/2026-10-15/manifest.json) · 3 个已有 fork，2 个未完成
@@ -15,6 +17,9 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 - [2026-10-09 · PDF](QSL新项目/2026-10-09/report.pdf) · [文字版](QSL新项目/2026-10-09/report.md) · [清单](QSL新项目/2026-10-09/manifest.json)
 
 ## 已核实的独立 fork
+
+- [ECC](https://github.com/qinshanliangengineer/ECC)
+- [CLI-Anything](https://github.com/qinshanliangengineer/CLI-Anything)
 
 - [claude-plugins-official](https://github.com/qinshanliangengineer/claude-plugins-official)
 - [scientific-agent-skills](https://github.com/qinshanliangengineer/scientific-agent-skills)
