@@ -1,0 +1,11 @@
+{
+  "collected_at": "2026-10-18T09:19:26.081156+08:00",
+  "url": "https://github.com/trending?since=daily",
+  "status": 200,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 01:19:25 GMT",
+    "ETag": "W/\"78ec66e3715b3a1b220c15e3dcd3ca6b\"",
+    "Cache-Control": "max-age=0, private, must-revalidate",
+    "X-GitHub-Request-Id": "800B:2B46A4:19585A:1FEA1E:6AD41E9C"
+  }
+}

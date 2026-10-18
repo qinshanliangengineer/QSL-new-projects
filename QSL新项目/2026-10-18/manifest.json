@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-18",
+  "automation_id": "qsl-github",
+  "triggered_at": "2026-10-18T08:59:10.288+08:00",
+  "ranking": "GitHub Trending daily, all languages, page order",
+  "ranking_collected_at": "2026-10-18T09:19:26.081156+08:00",
+  "metadata_collected_at": "2026-10-18T09:21:46.913542+08:00",
+  "generated_at": "2026-10-18T09:22:18.071082+08:00",
+  "authenticated_login": "qinshanliangengineer",
+  "repositories": [
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "rank": 1,
+      "trending_total_stars": 41779,
+      "trending_daily_stars": 1397,
+      "language": "Python",
+      "stars": 41779,
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "sha": "ea10b213686c90bb1984b2016937310e05336cf3",
+      "updated_at": "2026-10-18T01:19:15Z",
+      "pushed_at": "2026-10-17T16:41:00Z",
+      "readme_sha": "43104e240ff500c762adebb0c31dc4b7ff7b50dd",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+        }
+      ],
+      "latest_release": [],
+      "fork_url": "https://github.com/qinshanliangengineer/claude-plugins-official",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "anthropics/claude-plugins-official",
+      "source": "anthropics/claude-plugins-official",
+      "comparison": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 107,
+        "html_url": "https://github.com/anthropics/claude-plugins-official/compare/ea10b213686c90bb1984b2016937310e05336cf3...qinshanliangengineer:main"
+      }
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "rank": 2,
+      "trending_total_stars": 50431,
+      "trending_daily_stars": 1365,
+      "language": "Python",
+      "stars": 50433,
+      "license": "MIT",
+      "default_branch": "master",
+      "sha": "5d9e0977f01465166f25abf0826bd61e7c8cac25",
+      "updated_at": "2026-10-18T01:19:32Z",
+      "pushed_at": "2026-10-17T18:12:49Z",
+      "readme_sha": "404649e5ba834f38393eb4696694599c7b885dd2",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "sha": "dd86a45cbf864dd2cd82df06064cb8cc9aef995a"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v1.7.2",
+          "published_at": "2026-09-29T18:32:55Z",
+          "url": "https://github.com/MadsLorentzen/ai-job-search/releases/tag/v1.7.2"
+        }
+      ],
+      "fork_url": "https://github.com/qinshanliangengineer/ai-job-search",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "MadsLorentzen/ai-job-search",
+      "source": "MadsLorentzen/ai-job-search",
+      "comparison": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0,
+        "html_url": "https://github.com/MadsLorentzen/ai-job-search/compare/5d9e0977f01465166f25abf0826bd61e7c8cac25...qinshanliangengineer:master"
+      }
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "rank": 3,
+      "trending_total_stars": 282525,
+      "trending_daily_stars": 1145,
+      "language": "JavaScript",
+      "stars": 282527,
+      "license": "MIT",
+      "default_branch": "main",
+      "sha": "76aaa77df6adc5b889e689007bf99b9a4f74af34",
+      "updated_at": "2026-10-18T01:19:30Z",
+      "pushed_at": "2026-10-15T19:17:01Z",
+      "readme_sha": "6583ca8c1320e559aa5b2f86250f2f09c1d577e9",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "sha": "b832b6f642312312367c07688dc7426db40a82ed"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v2.2.3",
+          "published_at": "2026-10-01T23:00:36Z",
+          "url": "https://github.com/affaan-m/ECC/releases/tag/v2.2.3"
+        }
+      ],
+      "fork_url": "https://github.com/qinshanliangengineer/ECC",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "affaan-m/ECC",
+      "source": "affaan-m/ECC",
+      "comparison": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0,
+        "html_url": "https://github.com/affaan-m/ECC/compare/76aaa77df6adc5b889e689007bf99b9a4f74af34...qinshanliangengineer:main"
+      }
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "rank": 4,
+      "trending_total_stars": 54069,
+      "trending_daily_stars": 574,
+      "language": "Python",
+      "stars": 54070,
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "sha": "34f519533bc175d2fe287ab8316b0dd99bb9cc43",
+      "updated_at": "2026-10-18T01:19:42Z",
+      "pushed_at": "2026-09-22T02:01:29Z",
+      "readme_sha": "8a78b5420911eff5e7cc219bf1ecb2a12b562874",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "sha": "ee86799f79a1dd41bd82923f4dbf40cfb336684d"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v0.4.0",
+          "published_at": "2026-06-25T15:17:49Z",
+          "url": "https://github.com/HKUDS/CLI-Anything/releases/tag/v0.4.0"
+        }
+      ],
+      "fork_url": "https://github.com/qinshanliangengineer/CLI-Anything",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "HKUDS/CLI-Anything",
+      "source": "HKUDS/CLI-Anything",
+      "comparison": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0,
+        "html_url": "https://github.com/HKUDS/CLI-Anything/compare/34f519533bc175d2fe287ab8316b0dd99bb9cc43...qinshanliangengineer:main"
+      }
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "rank": 5,
+      "trending_total_stars": 52261,
+      "trending_daily_stars": 878,
+      "language": "Python",
+      "stars": 52264,
+      "license": "MIT",
+      "default_branch": "main",
+      "sha": "a1043ef544e3a100c28e70a736b6cf32554d0677",
+      "updated_at": "2026-10-18T01:20:04Z",
+      "pushed_at": "2026-10-15T23:57:39Z",
+      "readme_sha": "3fcebf5c0e49e39dc87e5b577d0368d313124862",
+      "readme_path": "README.md",
+      "license_files": [
+        {
+          "path": "LICENSE.md",
+          "sha": "eb246475fd5a66b9bb56176f3a718984632dd98d"
+        }
+      ],
+      "latest_release": [
+        {
+          "tag": "v2.72.0",
+          "published_at": "2026-10-01T22:42:08Z",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/releases/tag/v2.72.0"
+        }
+      ],
+      "fork_url": "https://github.com/qinshanliangengineer/scientific-agent-skills",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "K-Dense-AI/scientific-agent-skills",
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "comparison": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0,
+        "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills/compare/a1043ef544e3a100c28e70a736b6cf32554d0677...qinshanliangengineer:main"
+      }
+    }
+  ],
+  "validation": {
+    "text": "passed",
+    "pages": 6,
+    "links": 10,
+    "visual": "passed_all_6_pages"
+  },
+  "archive_status": "included_in_this_archive_commit_verification_in_local_receipt",
+  "notification_status": "prepared",
+  "artifacts": [
+    "report.pdf",
+    "report.md",
+    "manifest.json",
+    "trending.html",
+    "collection.json",
+    "metadata.json",
+    "analysis.json"
+  ]
+}
