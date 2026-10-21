@@ -3,6 +3,9 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 
 ## 每日中文报告
 
+- [2026-10-21 · PDF](QSL新项目/2026-10-21/report.pdf) · [文字版](QSL新项目/2026-10-21/report.md) · [清单](QSL新项目/2026-10-21/manifest.json) · 5 个已有 fork，已核实来源；未同步上游
+
+
 - [2026-10-18 · PDF](QSL新项目/2026-10-18/report.pdf) · [文字版](QSL新项目/2026-10-18/report.md) · [清单](QSL新项目/2026-10-18/manifest.json) · 5 个已有 fork，已核实来源
 
 - [2026-10-17 · PDF](QSL新项目/2026-10-17/report.pdf) · [文字版](QSL新项目/2026-10-17/report.md) · [清单](QSL新项目/2026-10-17/manifest.json) · 5 个已有 fork，已核实来源
@@ -51,3 +54,11 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm)：未确认可复用副本，当前连接无创建 fork 操作。
 - [K-Dense-AI/scientific-agent-skills](https://github.com/qinshanliangengineer/scientific-agent-skills)：10月16日已确认账号内存在来源匹配的 fork。
+
+- [cloudflare/security-audit-skill](https://github.com/qinshanliangengineer/security-audit-skill)（2026-10-21 核实；落后 0 次提交）
+
+- [stablyai/orca](https://github.com/qinshanliangengineer/orca)（2026-10-21 核实；落后 4 次提交）
+
+- [DietrichGebert/ponytail](https://github.com/qinshanliangengineer/ponytail)（2026-10-21 核实；落后 0 次提交）
+
+- [Comfy-Org/ComfyUI](https://github.com/qinshanliangengineer/ComfyUI)（2026-10-21 核实；落后 10 次提交）

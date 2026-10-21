@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-21",
+  "automation_id": "qsl-github",
+  "triggered_at": "2026-10-21T09:27:17.052+08:00",
+  "ranking": "GitHub Trending daily, all languages, page order",
+  "ranking_collected_at": "2026-10-21T09:32:14.7507969+08:00",
+  "metadata_collected_at": "2026-10-21T01:37:12.228Z",
+  "generated_at": "2026-10-21T09:39:01.984859+08:00",
+  "authenticated_login": "qinshanliangengineer",
+  "repositories": [
+    {
+      "rank": 1,
+      "repo": "MadsLorentzen/ai-job-search",
+      "language": "Python",
+      "stars": 60673,
+      "updated_at": "2026-10-21T01:32:41Z",
+      "pushed_at": "2026-10-20T19:02:25Z",
+      "default_branch": "master",
+      "sha": "4339153f8f5e4bb69eaee2a50af713815409e8e7",
+      "license": "MIT",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/MadsLorentzen/ai-job-search/blob/4339153f8f5e4bb69eaee2a50af713815409e8e7/LICENSE"
+        }
+      ],
+      "readme_url": "https://github.com/MadsLorentzen/ai-job-search/blob/4339153f8f5e4bb69eaee2a50af713815409e8e7/README.md",
+      "fork_url": "https://github.com/qinshanliangengineer/ai-job-search",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "MadsLorentzen/ai-job-search",
+      "source": "MadsLorentzen/ai-job-search",
+      "fork_default_branch": "master",
+      "comparison": {
+        "behind_by": 68,
+        "ahead_by": 0,
+        "status": "behind"
+      },
+      "latest_release": [
+        {
+          "tag": "v1.7.3",
+          "published_at": "2026-10-19T16:42:35Z"
+        }
+      ],
+      "trending_total_stars": 60671,
+      "trending_daily_stars": 3861
+    },
+    {
+      "rank": 2,
+      "repo": "cloudflare/security-audit-skill",
+      "language": "JavaScript",
+      "stars": 34298,
+      "updated_at": "2026-10-21T01:33:02Z",
+      "pushed_at": "2026-09-14T19:29:02Z",
+      "default_branch": "main",
+      "sha": "c1c8a8c1471069fb0e188eeaff69b8e8db6564a8",
+      "license": "MIT",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/cloudflare/security-audit-skill/blob/c1c8a8c1471069fb0e188eeaff69b8e8db6564a8/LICENSE"
+        }
+      ],
+      "readme_url": "https://github.com/cloudflare/security-audit-skill/blob/c1c8a8c1471069fb0e188eeaff69b8e8db6564a8/README.md",
+      "fork_url": "https://github.com/qinshanliangengineer/security-audit-skill",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "cloudflare/security-audit-skill",
+      "source": "cloudflare/security-audit-skill",
+      "fork_default_branch": "main",
+      "comparison": {
+        "behind_by": 0,
+        "ahead_by": 0,
+        "status": "identical"
+      },
+      "latest_release": [],
+      "trending_total_stars": 34295,
+      "trending_daily_stars": 1712
+    },
+    {
+      "rank": 3,
+      "repo": "stablyai/orca",
+      "language": "TypeScript",
+      "stars": 99785,
+      "updated_at": "2026-10-21T01:33:08Z",
+      "pushed_at": "2026-10-21T01:33:46Z",
+      "default_branch": "main",
+      "sha": "5c666d2974c79514546e209e3ba1e3f48538a04e",
+      "license": "MIT",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/stablyai/orca/blob/5c666d2974c79514546e209e3ba1e3f48538a04e/LICENSE"
+        }
+      ],
+      "readme_url": "https://github.com/stablyai/orca/blob/5c666d2974c79514546e209e3ba1e3f48538a04e/README.md",
+      "fork_url": "https://github.com/qinshanliangengineer/orca",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "stablyai/orca",
+      "source": "stablyai/orca",
+      "fork_default_branch": "main",
+      "comparison": {
+        "behind_by": 4,
+        "ahead_by": 0,
+        "status": "behind"
+      },
+      "latest_release": [
+        {
+          "tag": "v1.4.235",
+          "published_at": "2026-10-20T22:52:23Z"
+        }
+      ],
+      "trending_total_stars": 99785,
+      "trending_daily_stars": 1565
+    },
+    {
+      "rank": 4,
+      "repo": "DietrichGebert/ponytail",
+      "language": "JavaScript",
+      "stars": 169735,
+      "updated_at": "2026-10-21T01:33:52Z",
+      "pushed_at": "2026-10-18T01:55:14Z",
+      "default_branch": "main",
+      "sha": "09c434ab73ca43761c5d8b0c5d341926c2fba710",
+      "license": "MIT",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/DietrichGebert/ponytail/blob/09c434ab73ca43761c5d8b0c5d341926c2fba710/LICENSE"
+        }
+      ],
+      "readme_url": "https://github.com/DietrichGebert/ponytail/blob/09c434ab73ca43761c5d8b0c5d341926c2fba710/README.md",
+      "fork_url": "https://github.com/qinshanliangengineer/ponytail",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "DietrichGebert/ponytail",
+      "source": "DietrichGebert/ponytail",
+      "fork_default_branch": "main",
+      "comparison": {
+        "behind_by": 0,
+        "ahead_by": 0,
+        "status": "identical"
+      },
+      "latest_release": [
+        {
+          "tag": "v5.3.2",
+          "published_at": "2026-10-16T23:15:15Z"
+        }
+      ],
+      "trending_total_stars": 169731,
+      "trending_daily_stars": 1208
+    },
+    {
+      "rank": 5,
+      "repo": "Comfy-Org/ComfyUI",
+      "language": "Python",
+      "stars": 140805,
+      "updated_at": "2026-10-21T01:33:54Z",
+      "pushed_at": "2026-10-21T01:24:42Z",
+      "default_branch": "master",
+      "sha": "37ff76b4d3d47405ba46ac1e14698e280b70b33f",
+      "license": "GPL-3.0",
+      "license_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/Comfy-Org/ComfyUI/blob/37ff76b4d3d47405ba46ac1e14698e280b70b33f/LICENSE"
+        }
+      ],
+      "readme_url": "https://github.com/Comfy-Org/ComfyUI/blob/37ff76b4d3d47405ba46ac1e14698e280b70b33f/README.md",
+      "fork_url": "https://github.com/qinshanliangengineer/ComfyUI",
+      "fork_status": "existing_parent_source_verified",
+      "parent": "Comfy-Org/ComfyUI",
+      "source": "Comfy-Org/ComfyUI",
+      "fork_default_branch": "master",
+      "comparison": {
+        "behind_by": 10,
+        "ahead_by": 0,
+        "status": "behind"
+      },
+      "latest_release": [
+        {
+          "tag": "v0.42.1",
+          "published_at": "2026-10-19T01:33:54Z"
+        }
+      ],
+      "trending_total_stars": 140802,
+      "trending_daily_stars": 1206
+    }
+  ],
+  "validation": {
+    "text": "passed",
+    "pages": 6,
+    "links": 19,
+    "visual": "passed_all_6_pages"
+  },
+  "archive_status": "pending",
+  "notification_status": "prepared_for_current_reply",
+  "artifacts": [
+    "report.pdf",
+    "report.md",
+    "manifest.json",
+    "trending.html",
+    "collection.json",
+    "metadata.json",
+    "analysis.json"
+  ],
+  "status": "local_complete_archive_pending"
+}
