@@ -188,9 +188,10 @@
     "text": "passed",
     "pages": 6,
     "links": 19,
-    "visual": "passed_all_6_pages"
+    "visual": "passed_all_6_pages",
+    "remote_pdf": "git_blob_hash_matches_local_verified_pdf"
   },
-  "archive_status": "pending",
+  "archive_status": "verified",
   "notification_status": "prepared_for_current_reply",
   "artifacts": [
     "report.pdf",
@@ -201,5 +202,9 @@
     "metadata.json",
     "analysis.json"
   ],
-  "status": "local_complete_archive_pending"
+  "status": "complete",
+  "archive_commit": "22375d5f5817ff707d1420464f6b40f5c5d18c7e",
+  "pdf_git_blob_sha": "8939431a6e07310bf64bd6978ee560315a4f624b",
+  "archive_directory_url": "https://github.com/qinshanliangengineer/QSL-new-projects/tree/main/QSL新项目/2026-10-21",
+  "completed_at": "2026-10-21T02:48:57.283Z"
 }
