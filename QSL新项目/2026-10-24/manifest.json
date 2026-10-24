@@ -186,12 +186,18 @@
     "pdf_pages": 6,
     "text_extraction": "passed",
     "nonempty_pages": "passed",
-    "visual": "passed"
+    "visual": "passed",
+    "archive": "verified on GitHub"
   },
   "archive_status": {
-    "state": "pending commit verification",
+    "state": "archived and verified",
     "repository": "qinshanliangengineer/QSL-new-projects",
-    "directory": "QSL新项目/2026-10-24"
+    "visibility": "public",
+    "branch": "main",
+    "directory": "QSL新项目/2026-10-24",
+    "report_commit": "fe58248fdfb486541a2cf185630bfd967b3f1c9a",
+    "report_commit_url": "https://github.com/qinshanliangengineer/QSL-new-projects/commit/fe58248fdfb486541a2cf185630bfd967b3f1c9a",
+    "verification": "main ref and committed tree confirmed"
   },
   "fork_capability": "no fork-creation operation available; all five parent/source-verified forks pre-existed",
   "notification_status": "pending",
