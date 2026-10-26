@@ -148,12 +148,18 @@
     "nonempty_pages": "passed",
     "replacement_characters": 0,
     "visual": "passed",
-    "links": 24
+    "links": 24,
+    "archive": "verified on GitHub"
   },
   "archive_status": {
-    "state": "pending commit verification",
+    "state": "archived and verified",
     "repository": "qinshanliangengineer/QSL-new-projects",
-    "directory": "QSL新项目/2026-10-26"
+    "visibility": "public",
+    "branch": "main",
+    "directory": "QSL新项目/2026-10-26",
+    "report_commit": "182eaa58b3365bd0f2ae8400968b2c5b31fc0e50",
+    "report_commit_url": "https://github.com/qinshanliangengineer/QSL-new-projects/commit/182eaa58b3365bd0f2ae8400968b2c5b31fc0e50",
+    "verification": "main ref, root index, report and committed tree confirmed"
   },
   "fork_capability": "two existing forks verified; three missing forks could not be created because connected tools lack fork endpoint and gh CLI is unavailable",
   "notification_status": "pending",
