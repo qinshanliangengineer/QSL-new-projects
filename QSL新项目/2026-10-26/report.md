@@ -1,0 +1,153 @@
+# QSL GitHub 每日热门项目 | 2026-10-26
+
+榜单实际抓取：2026-10-26T09:01:44.6706251+08:00（北京时间）
+榜单来源：https://github.com/trending?since=daily
+
+## GitHub 每日热门项目前五
+2026年10月26日 · GitHub Trending Daily · 所有语言
+
+### 采集与筛选
+实际采集时间：2026-10-26T09:01:44.6706251+08:00（北京时间）；HTTP Date：['Mon, 26 Oct 2026 01:01:24 GMT']。按 GitHub Trending 当日页面顺序选前五个不同公开仓库。原始HTML已保存。
+
+### 今日项目
+1. Cindy：可在本机运行、整合模型与编码 harness 的开源桌面/移动 AI agent 客户端。
+2. Hallmark：为 Claude Code、Codex、Cursor 和 OpenCode 提供页面设计与质量检查 skill。
+3. Impeccable：面向编码 agent 的前端设计流程，提供24个命令和62条确定性检测规则。
+4. Microduck：约25厘米、800克的双足机器人控制软件，运行强化学习策略。
+5. TradingAgents：用多个 LLM 角色协作分析市场并形成交易决策的研究框架。
+
+### Fork 状态
+认证账号为 qinshanliangengineer。Hallmark 与上游一致；Impeccable 落后170次提交，未同步。Cindy、MicroDuck、TradingAgents 未找到同名账号仓库；当前连接无创建 fork 操作，gh CLI 也不可用，故未复刻。
+
+### 风险提示
+Cindy可接触本机文件与登录应用，试用前要限制权限。Microduck涉及实机运动。TradingAgents README 明确仅供研究、不是金融建议，历史结果不保证收益。
+
+## 01  makecindy/cindy
+Cindy：可在本机运行、整合模型与编码 harness 的开源桌面/移动 AI agent 客户端。
+
+### 榜单与仓库元数据
+Trending页面总星标：4,879；页面标注今日新增：675。随后仓库API总星标：4,879。语言：TypeScript；许可证：Apache-2.0；默认分支：main；采集时上游SHA：7c5bd270c956417127e12a74934d0ecdb97ba55d；最近更新：2026-10-26T01:01:11Z（UTC）。最近Release：v0.1.115（2026-10-23）。
+
+### 主要内容（官方 README）
+README称 Cindy 是本机 AI agent 客户端，可读取本地文件并连接已登录应用，当前支持 Claude Code 与 Codex harness；任务可规划、并行执行并跨模型/harness复核。仓库包含 Electron 桌面端、Expo/React Native 移动端及共享 packages；后端服务另在仓库之外。Apache-2.0；README列出 Node.js 22、pnpm 10 和 Git LFS 作为源码开发依赖。
+
+### 当前用途与潜在价值（分析）
+当前可作为个人本地 agent 桌面入口，统一 skills、memory、工具和多个模型工作流。若本地权限与模型接入配置受控，可能减少跨工具切换；它访问真实文件、浏览器与已登录应用，应用价值取决于用户授权边界、服务可用性和模型质量。
+
+### 适用者与入门路径
+适合熟悉 Claude Code/Codex 的开发者与重度 agent 用户。先用非敏感工作区试用本地模式，逐项检查文件、浏览器、手机与 MCP 权限；源码贡献者按仓库指南安装 Node 22、pnpm 10、Git LFS。
+
+### 许可证、成本与限制
+客户端源码 Apache-2.0。README称可用 Cindy 托管服务、已有 Claude Code/Codex 计划、自带 API key 或本地模型；托管服务有单独价格页，具体价格以官网当前页面为准。源码构建另需 Node/pnpm/Git LFS及各平台依赖。对本地文件和登录态的访问带来隐私与误操作成本。
+
+### Fork与来源
+Fork：未完成；账号中无同名仓库，当前工具缺少 fork 创建能力。
+上游：https://github.com/makecindy/cindy
+README：https://github.com/makecindy/cindy/blob/7c5bd270c956417127e12a74934d0ecdb97ba55d/README.md
+许可证：https://github.com/makecindy/cindy/blob/7c5bd270c956417127e12a74934d0ecdb97ba55d/LICENSE
+提交：https://github.com/makecindy/cindy/commit/7c5bd270c956417127e12a74934d0ecdb97ba55d
+
+
+## 02  Nutlope/hallmark
+Hallmark：为 Claude Code、Codex、Cursor 和 OpenCode 提供页面设计与质量检查 skill。
+
+### 榜单与仓库元数据
+Trending页面总星标：33,785；页面标注今日新增：1,317。随后仓库API总星标：33,786。语言：CSS；许可证：MIT；默认分支：main；采集时上游SHA：7ec868225c6caa040558c321ee0fefa0e73f83a8；最近更新：2026-10-26T01:01:47Z（UTC）。最近Release：未返回 GitHub Release。
+
+### 主要内容（官方 README）
+README称 Hallmark 提供48套主题、按页面用途规划布局、真实浏览器截图检查、多层 sloplint 规则，以及 redesign/audit 命令；README称包含755张开放许可照片并标注来源。官方安装需 Node 18+；浏览器检查还需要 puppeteer-core 与 Chrome。许可证 MIT。
+
+### 当前用途与潜在价值（分析）
+当前用途是为 agent 生成的前端页面加入设计约束和自动检查。它可能帮助团队减少模板化视觉和一些响应式/无障碍遗漏；结果仍取决于提示、素材、浏览器覆盖和人工评审，规则不能保证页面有效或好用。
+
+### 适用者与入门路径
+适合前端开发者和设计系统团队。先对非生产页面跑 audit，再用批准的内容和素材试做一个小页面，核查截图、链接、表单与交互。
+
+### 许可证、成本与限制
+MIT。浏览器检查需安装 Puppeteer/Chrome，agent 调用可能消耗模型额度；主题和真实素材适配需要设计维护。自动 lint 不能替代用户测试或专业无障碍评估。账号 fork 已核实与上游一致。
+
+### Fork与来源
+已核实 fork：https://github.com/qinshanliangengineer/hallmark。落后0次、领先0次；未同步。
+上游：https://github.com/Nutlope/hallmark
+README：https://github.com/Nutlope/hallmark/blob/7ec868225c6caa040558c321ee0fefa0e73f83a8/README.md
+许可证：https://github.com/Nutlope/hallmark/blob/7ec868225c6caa040558c321ee0fefa0e73f83a8/LICENSE
+提交：https://github.com/Nutlope/hallmark/commit/7ec868225c6caa040558c321ee0fefa0e73f83a8
+
+
+## 03  pbakaus/impeccable
+Impeccable：面向编码 agent 的前端设计流程，提供24个命令和62条确定性检测规则。
+
+### 榜单与仓库元数据
+Trending页面总星标：87,706；页面标注今日新增：1,092。随后仓库API总星标：87,708。语言：Rust；许可证：Apache-2.0；默认分支：main；采集时上游SHA：3671d50f0ac9a662ce0615e85a256110c9cd720b；最近更新：2026-10-26T01:02:03Z（UTC）。最近Release：engine-v0.1.17（2026-10-23）。
+
+### 主要内容（官方 README）
+README列出 `/impeccable init`、audit、critique、polish、harden 等24个命令，并称包含62条确定性 detector rules；确定性规则可不调用 LLM/API 运行。项目还提供浏览器视觉迭代，README给出 `npx impeccable install`，并称引擎为自包含二进制。Apache-2.0。
+
+### 当前用途与潜在价值（分析）
+当前用途是将产品背景、视觉方向、UX检查和页面打磨组织为可复用 agent 工作流。若团队持续维护准确的产品事实和设计约束，它可能改善多项任务的一致性；审美与业务效果仍需用户研究和人工判断。
+
+### 适用者与入门路径
+适合前端工程师、产品设计师和使用编码 agent 的团队。先对一个非关键页面运行 init 和 audit，人工复核结果；浏览器模式按官方文档配置环境。
+
+### 许可证、成本与限制
+Apache-2.0。确定性检测可离线运行；LLM专属评估会产生模型成本，浏览器迭代需安装浏览器与引擎。账号 fork 已核实来源匹配，但落后上游170次提交；未同步，不能代表当前上游版本。
+
+### Fork与来源
+已核实 fork：https://github.com/qinshanliangengineer/impeccable。落后170次、领先0次；未同步。
+上游：https://github.com/pbakaus/impeccable
+README：https://github.com/pbakaus/impeccable/blob/3671d50f0ac9a662ce0615e85a256110c9cd720b/README.md
+许可证：https://github.com/pbakaus/impeccable/blob/3671d50f0ac9a662ce0615e85a256110c9cd720b/LICENSE
+提交：https://github.com/pbakaus/impeccable/commit/3671d50f0ac9a662ce0615e85a256110c9cd720b
+
+
+## 04  pollen-robotics/microduck
+Microduck：约25厘米、800克的双足机器人控制软件，运行强化学习策略。
+
+### 榜单与仓库元数据
+Trending页面总星标：11,646；页面标注今日新增：647。随后仓库API总星标：11,647。语言：Rust；许可证：Apache-2.0；默认分支：main；采集时上游SHA：942e58e3aa6dbb28e7037203fff11866122c7567；最近更新：2026-10-26T01:01:54Z（UTC）。最近Release：daemon-dev-ground-grasp-x（预发布，2026-10-25）。
+
+### 主要内容（官方 README）
+README称机器人基于 Rockchip RK3566，50 Hz 控制环驱动15个舵机，并集成无线、相机与更新机制；策略在相邻 microduck_rl 仓库用 MuJoCo/PPO 训练，再导出 ONNX 加载。README展示行走、滚动、拾取和跌倒后恢复等功能，并提供仿真、硬件架构和开发板说明；Apache-2.0。当前 Release 为预发布标记。
+
+### 当前用途与潜在价值（分析）
+当前可用于小型双足机器人演示、强化学习 sim-to-real 研究和机器人软件栈教学。若硬件套件、驱动、仿真和策略可复现，它可作为低门槛实验平台；实际研究价值取决于传感器质量、策略稳定性、负载和安全保护。
+
+### 适用者与入门路径
+适合机器人、嵌入式与强化学习开发者。先读硬件架构和仿真文档；没有设备时可先跑 MuJoCo 仿真。实机需按指南准备 RK3566 主板、15个舵机及相机/无线等组件，并在防护区域测试。
+
+### 许可证、成本与限制
+Apache-2.0。README链接到厂商购买页但未在仓库给出当前套件价格；硬件、舵机、供电、电池、备用件、运输和工具都会形成成本，精确预算需查供应商报价和配置。训练策略需要计算资源；实机测试涉及夹伤、跌落和电池风险。账号内未发现对应 fork，当前连接也无创建 fork 操作。
+
+### Fork与来源
+Fork：未完成；账号中无同名仓库，当前工具缺少 fork 创建能力。
+上游：https://github.com/pollen-robotics/microduck
+README：https://github.com/pollen-robotics/microduck/blob/942e58e3aa6dbb28e7037203fff11866122c7567/README.md
+许可证：https://github.com/pollen-robotics/microduck/blob/942e58e3aa6dbb28e7037203fff11866122c7567/LICENSE
+提交：https://github.com/pollen-robotics/microduck/commit/942e58e3aa6dbb28e7037203fff11866122c7567
+
+
+## 05  TauricResearch/TradingAgents
+TradingAgents：用多个 LLM 角色协作分析市场并形成交易决策的研究框架。
+
+### 榜单与仓库元数据
+Trending页面总星标：114,622；页面标注今日新增：381。随后仓库API总星标：114,623。语言：Python；许可证：Apache-2.0；默认分支：main；采集时上游SHA：e8f5503e9b86d5c2710b0c76b1f686703968c9df；最近更新：2026-10-26T01:01:57Z（UTC）。最近Release：v0.7.0（2026-10-16）。
+
+### 主要内容（官方 README）
+README将其定义为多 agent LLM 金融交易框架：基本面、情绪和技术分析 agent 与 trader、risk management 等角色共同讨论市场并形成决策；项目链接 arXiv 论文，当前正式 Release 为 v0.7.0。README明确称框架用于研究，交易表现受模型、温度、时期、数据质量和非确定性等因素影响，并明确不是金融、投资或交易建议。Apache-2.0。
+
+### 当前用途与潜在价值（分析）
+当前适合研究多 agent 分工、信息整合和回测流程。若严格控制时间点数据、交易成本与基准，它可能用于教学或策略假设比较；历史回测结果不保证未来收益，LLM输出也不等于可靠预测。
+
+### 适用者与入门路径
+适合量化研究者、金融工程学生和 agent 系统研究者。先阅读论文与免责声明，在离线历史数据上检查 look-ahead bias、交易费、滑点和模型版本；不要直接连接真实券商账户。
+
+### 许可证、成本与限制
+Apache-2.0。数据供应商与 LLM API 可能按请求收费，回测还需行情/基本面数据、算力和工程维护；连接交易接口会带来本金损失和监管风险。仓库许可不授予金融建议，也不构成投资服务。账号内未发现对应 fork，当前连接无创建 fork 操作。
+
+### Fork与来源
+Fork：未完成；账号中无同名仓库，当前工具缺少 fork 创建能力。
+上游：https://github.com/TauricResearch/TradingAgents
+README：https://github.com/TauricResearch/TradingAgents/blob/e8f5503e9b86d5c2710b0c76b1f686703968c9df/README.md
+许可证：https://github.com/TauricResearch/TradingAgents/blob/e8f5503e9b86d5c2710b0c76b1f686703968c9df/LICENSE
+提交：https://github.com/TauricResearch/TradingAgents/commit/e8f5503e9b86d5c2710b0c76b1f686703968c9df
+

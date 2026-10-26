@@ -3,6 +3,8 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 
 ## 每日中文报告
 
+- [2026-10-26 · PDF](QSL新项目/2026-10-26/report.pdf) · [文字版](QSL新项目/2026-10-26/report.md) · [清单](QSL新项目/2026-10-26/manifest.json) · 2 个 fork 已核实，3 个缺少创建能力；Impeccable fork 落后170次
+
 - [2026-10-25 · PDF](QSL新项目/2026-10-25/report.pdf) · [文字版](QSL新项目/2026-10-25/report.md) · [清单](QSL新项目/2026-10-25/manifest.json) · 5 个已有 fork，来源已核实；2 个落后未同步；榜单 09:32 采集
 
 - [2026-10-24 · PDF](QSL新项目/2026-10-24/report.pdf) · [文字版](QSL新项目/2026-10-24/report.md) · [清单](QSL新项目/2026-10-24/manifest.json) · 5 个已核实来源的现有 fork；未同步；榜单 10:59（北京时间）采集
