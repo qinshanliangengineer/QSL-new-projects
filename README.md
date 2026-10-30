@@ -3,6 +3,8 @@ GitHub 每日热门 Top5 自动归档：fork 索引 + 中文解读 PDF
 
 ## 每日中文报告
 
+- [2026-10-30 · PDF](QSL新项目/2026-10-30/report.pdf) · [文字版](QSL新项目/2026-10-30/report.md) · [清单](QSL新项目/2026-10-30/manifest.json) · 5 个来源匹配的 fork；DeepTutor、Superpowers、OpenMausBot 与上游一致，Impeccable 落后 206 个提交，ThinkRail 落后 33 个提交（未同步）。
+
 - [2026-10-29 · PDF](2026-10-29/digest_2026-10-29.pdf) · [说明](2026-10-29/README.md) · 5 个来源匹配的 fork；3 个与上游一致，thinkrail 落后 28 个提交，macro 落后 4 个提交。PDF 位于根目录日期文件夹。
 
 - [2026-10-28 · PDF](2026-10-28/digest_2026-10-28.pdf) · [说明](2026-10-28/README.md) · 已核实 5 个来源匹配的 fork；3 个与上游一致，Hallmark 落后 6 个提交，Impeccable 落后 192 个提交。PDF 归档于根目录日期文件夹。

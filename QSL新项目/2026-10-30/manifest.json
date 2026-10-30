@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Asia/Shanghai",
+  "trending": {
+    "url": "https://github.com/trending?since=daily",
+    "captured_at": "2026-10-30T09:07:29+08:00",
+    "http_date": "Fri, 30 Oct 2026 01:07:29 GMT",
+    "status": 200,
+    "selection": "first five distinct public repositories across all languages, in page order",
+    "evidence_file": "trending.html"
+  },
+  "metadata_checked_at": "2026-10-30T09:10:56+08:00",
+  "account": {
+    "login": "qinshanliangengineer",
+    "id": 279283994,
+    "identity_verified": true
+  },
+  "projects": [
+    {
+      "rank": 1,
+      "repository": "HKUDS/DeepTutor",
+      "stars_today": 1930,
+      "stars_total": 50085,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "source_sha": "1ea7df155447f4caf0e3abc86b3ff5395479cd4a",
+      "readme_blob_sha": "aa5ccfc3c70844364839428d772f2a70a196adf5",
+      "fork": {
+        "repository": "qinshanliangengineer/DeepTutor",
+        "parent": "HKUDS/DeepTutor",
+        "verified": true,
+        "ahead": 0,
+        "behind": 0,
+        "synced": false
+      }
+    },
+    {
+      "rank": 2,
+      "repository": "obra/superpowers",
+      "stars_today": 1034,
+      "stars_total": 308561,
+      "language": "Shell",
+      "license": "MIT",
+      "default_branch": "main",
+      "source_sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "readme_blob_sha": "c5bb59fdaf17ba154e803c549cd71a73ef36c24b",
+      "fork": {
+        "repository": "qinshanliangengineer/superpowers",
+        "parent": "obra/superpowers",
+        "verified": true,
+        "ahead": 0,
+        "behind": 0,
+        "synced": false
+      }
+    },
+    {
+      "rank": 3,
+      "repository": "pbakaus/impeccable",
+      "stars_today": 2870,
+      "stars_total": 95352,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "source_sha": "02523aec3e4c4580102d996d1b6a71fbe062e03f",
+      "readme_blob_sha": "8f27aa965cb56ab578d637e53f0392ae4e2d06db",
+      "fork": {
+        "repository": "qinshanliangengineer/impeccable",
+        "parent": "pbakaus/impeccable",
+        "verified": true,
+        "ahead": 0,
+        "behind": 206,
+        "synced": false
+      }
+    },
+    {
+      "rank": 4,
+      "repository": "JetBrains/thinkrail",
+      "stars_today": 1117,
+      "stars_total": 6020,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "source_sha": "df7cb6d2dd5fafbc6ed8eea721f16e54f09e38fc",
+      "readme_blob_sha": "263ab41caeb6e6278769fc708e8dcd7b4d91bbcc",
+      "fork": {
+        "repository": "qinshanliangengineer/thinkrail",
+        "parent": "JetBrains/thinkrail",
+        "verified": true,
+        "ahead": 0,
+        "behind": 33,
+        "synced": false
+      }
+    },
+    {
+      "rank": 5,
+      "repository": "milind-soni/OpenMausBot",
+      "stars_today": 1199,
+      "stars_total": 7483,
+      "language": "TypeScript",
+      "license": "Apache-2.0 (enterprise/ has separate source-available terms)",
+      "default_branch": "main",
+      "source_sha": "0213b7435fc83a936f77c18475ba2a0d7b7c2de4",
+      "readme_blob_sha": "50140729a8a27690fad4c327d019b3858e25affc",
+      "fork": {
+        "repository": "qinshanliangengineer/OpenMausBot",
+        "parent": "milind-soni/OpenMausBot",
+        "verified": true,
+        "ahead": 0,
+        "behind": 0,
+        "synced": false
+      }
+    }
+  ],
+  "pdf": {
+    "file": "report.pdf",
+    "pages": 3,
+    "visually_rendered": true,
+    "chinese_text_extract_checked": true,
+    "sha256": "6073cb9d94994878455dde6fc7b6b4e652d125bb4c8442e594ae35d276a495ec"
+  },
+  "archive": {
+    "repository": "qinshanliangengineer/QSL-new-projects",
+    "directory": "QSL新项目/2026-10-30",
+    "status": "pending_upload",
+    "visible": "public",
+    "root_index_update_required": true
+  }
+}
+
