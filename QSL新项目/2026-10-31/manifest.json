@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "trending": {
+    "url": "https://github.com/trending?since=daily",
+    "captured_at": "2026-10-31T13:13:03+08:00",
+    "status": 200,
+    "selection": "first five distinct public repositories across all languages in page order",
+    "evidence_file": "trending.html"
+  },
+  "account": {
+    "login": "qinshanliangengineer",
+    "id": 279283994,
+    "verified": true
+  },
+  "projects": [
+    {
+      "rank": 1,
+      "repository": "thedotmack/claude-mem",
+      "stars_today": 1140,
+      "stars_total": 106553,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "default_branch_sha": "70aa40042cfb8157a0d84954b9c0d2b30b50af80",
+      "readme_sha": "9a2cfbe945c6290edae9618548aca660e940e60f",
+      "fork": "qinshanliangengineer/claude-mem",
+      "parent_verified": true,
+      "behind": null,
+      "synced": false
+    },
+    {
+      "rank": 2,
+      "repository": "milind-soni/OpenMausBot",
+      "stars_today": 895,
+      "stars_total": 8856,
+      "language": "TypeScript",
+      "license": "Apache-2.0; enterprise/ has separate terms",
+      "default_branch_sha": "7de00e425848d5f1a2a845cb4784851b87d8cad2",
+      "readme_sha": "50140729a8a27690fad4c327d019b3858e25affc",
+      "fork": "qinshanliangengineer/OpenMausBot",
+      "parent_verified": true,
+      "behind": null,
+      "synced": false
+    },
+    {
+      "rank": 3,
+      "repository": "pbakaus/impeccable",
+      "stars_today": 2300,
+      "stars_total": 97287,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "default_branch_sha": "df3a4abe7d0840d5f60324812c432e00b66a4e75",
+      "readme_sha": "8f27aa965cb56ab578d637e53f0392ae4e2d06db",
+      "fork": "qinshanliangengineer/impeccable",
+      "parent_verified": true,
+      "behind": null,
+      "synced": false
+    },
+    {
+      "rank": 4,
+      "repository": "CopilotKit/OpenBot",
+      "stars_today": 706,
+      "stars_total": 8896,
+      "language": "TypeScript",
+      "license": "MIT",
+      "default_branch_sha": "743649efc3f21d7bf0badbe6af2bcd5daedd97ce",
+      "readme_sha": "42d7323b612d71aec347d32c763edbd659f90648",
+      "fork": null,
+      "parent_verified": false,
+      "error": "qinshanliangengineer/OpenBot exists but parent is nightly-labs/openbot; no fork-create tool available"
+    },
+    {
+      "rank": 5,
+      "repository": "Renhuai123/ziwei-doushu",
+      "stars_today": 1126,
+      "stars_total": 11456,
+      "language": "TypeScript",
+      "license": "MIT; dataset CC BY 4.0",
+      "default_branch_sha": "495b79ecb3524b20b2edc026067d7d0b0f407319",
+      "readme_sha": "8358fc53b3d561b222158862a6dff7231c9bf6a7",
+      "fork": "qinshanliangengineer/ziwei-doushu",
+      "parent_verified": true,
+      "behind": null,
+      "synced": false
+    }
+  ],
+  "pdf": {
+    "file": "report.pdf",
+    "pages": 3,
+    "visual_review": true,
+    "text_extraction_checked": true,
+    "sha256": "fa7d81752eeb89a156a81b906f92f514d7db0ebda3c698a74e8cd5aacde1457c"
+  },
+  "archive": {
+    "repository": "qinshanliangengineer/QSL-new-projects",
+    "directory": "QSL新项目/2026-10-31",
+    "status": "pending"
+  }
+}
+
