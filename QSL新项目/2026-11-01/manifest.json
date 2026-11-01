@@ -101,7 +101,10 @@
   "archive": {
     "repository": "qinshanliangengineer/QSL-new-projects",
     "directory": "QSL新项目/2026-11-01",
-    "status": "pending"
+    "status": "complete",
+    "content_commit": "dc9f9a850ba904749cb4ae685f94bb4ee02d1913",
+    "visible": "public",
+    "root_index_updated": true
   }
 }
 
