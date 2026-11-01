@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-01",
+  "timezone": "Asia/Shanghai",
+  "trending": {
+    "url": "https://github.com/trending?since=daily",
+    "captured_at": "2026-11-01T11:48:00+08:00",
+    "http_date": "Sun, 01 Nov 2026 03:48:00 GMT",
+    "status": 200,
+    "selection": "first five distinct public repositories across all languages, in page order",
+    "evidence_file": "trending.html"
+  },
+  "account": {
+    "login": "qinshanliangengineer",
+    "id": 279283994,
+    "verified": true
+  },
+  "projects": [
+    {
+      "rank": 1,
+      "repository": "thedotmack/claude-mem",
+      "stars_today": 1723,
+      "stars_total": 108015,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "source_sha": "9e67b7641af6e9378b32dc08441bb1caabebc117",
+      "readme_sha": "f3fc2220fcc7209cdfb38ae1b786bda101f852dd",
+      "fork": "qinshanliangengineer/claude-mem",
+      "parent_verified": true,
+      "sync": "not performed",
+      "ahead_behind": "not retrieved"
+    },
+    {
+      "rank": 2,
+      "repository": "mattpocock/skills",
+      "stars_today": 883,
+      "stars_total": 308522,
+      "language": "Shell",
+      "license": "MIT",
+      "default_branch": "main",
+      "source_sha": "4ae2317ddb22b046e26455e4f9c9b3aaaf62212d",
+      "readme_sha": "f7038f139299985eea6c3e18398dbafb379a0010",
+      "fork": "qinshanliangengineer/skills",
+      "parent_verified": true,
+      "sync": "not performed",
+      "ahead_behind": "not retrieved"
+    },
+    {
+      "rank": 3,
+      "repository": "Donchitos/Claude-Code-Game-Studios",
+      "stars_today": 742,
+      "stars_total": 31267,
+      "language": "Shell",
+      "license": "MIT",
+      "default_branch": "main",
+      "source_sha": "05ad7c8a5b8aa2aa86bbd3439ae7cf7295cac418",
+      "readme_sha": "d73112eae0042d010d867ea850142e66ffc37f71",
+      "fork": "qinshanliangengineer/Claude-Code-Game-Studios",
+      "parent_verified": true,
+      "sync": "not performed",
+      "ahead_behind": "not retrieved"
+    },
+    {
+      "rank": 4,
+      "repository": "pingdotgg/t3code",
+      "stars_today": 1148,
+      "stars_total": 35814,
+      "language": "TypeScript",
+      "license": "MIT",
+      "default_branch": "main",
+      "source_sha": "5732bbee397f0a2b0e61d0c2e432f01dca6df3dc",
+      "readme_sha": "1f63f3609ae0dd709256623cf34f6fab8168d2f2",
+      "fork": "qinshanliangengineer/t3code",
+      "parent_verified": true,
+      "sync": "not performed",
+      "ahead_behind": "not retrieved"
+    },
+    {
+      "rank": 5,
+      "repository": "Renhuai123/ziwei-doushu",
+      "stars_today": 1092,
+      "stars_total": 12391,
+      "language": "TypeScript",
+      "license": "MIT; dataset CC BY 4.0",
+      "default_branch": "main",
+      "source_sha": "495b79ecb3524b20b2edc026067d7d0b0f407319",
+      "readme_sha": "8358fc53b3d561b222158862a6dff7231c9bf6a7",
+      "fork": "qinshanliangengineer/ziwei-doushu",
+      "parent_verified": true,
+      "sync": "not performed",
+      "ahead_behind": "not retrieved"
+    }
+  ],
+  "pdf": {
+    "file": "report.pdf",
+    "pages": 2,
+    "visual_review": true,
+    "text_extraction_checked": true,
+    "sha256": "d730461ed38eba108a7da82301506e45e9293cfb2838cb21954a2164588ed71a"
+  },
+  "archive": {
+    "repository": "qinshanliangengineer/QSL-new-projects",
+    "directory": "QSL新项目/2026-11-01",
+    "status": "pending"
+  }
+}
+
