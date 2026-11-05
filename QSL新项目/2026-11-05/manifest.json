@@ -1,0 +1,170 @@
+{
+  "report_date": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "collection": {
+    "started_at": "2026-11-05T09:00:00+08:00",
+    "trending_captured_at": "2026-11-05T09:39:30+08:00",
+    "trending_http_date": "Thu, 05 Nov 2026 01:39:30 GMT",
+    "url": "https://github.com/trending?since=daily",
+    "selection": "First five distinct public repositories in live GitHub Trending daily page order, all programming languages.",
+    "evidence_file": "trending.html"
+  },
+  "authenticated_target": {
+    "login": "qinshanliangengineer",
+    "id": 279283994,
+    "verified_before_write": true
+  },
+  "archive": {
+    "repository": "qinshanliangengineer/QSL-new-projects",
+    "visibility": "public",
+    "directory": "QSL新项目/2026-11-05/",
+    "branch": "main",
+    "head_before_write": "3eedfe6f67e28dfce63cddbb50bccbbd5201ff84",
+    "status": "pending",
+    "content_commit": null,
+    "index_updated": false
+  },
+  "projects": [
+    {
+      "rank": 1,
+      "repository": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Python framework for semantic enterprise data context and ontology-backed agent workflows.",
+      "language": "Python",
+      "stars_today": 2050,
+      "stars_total_snapshot": 5096,
+      "license": "Apache-2.0",
+      "license_file_url": "https://github.com/NVIDIA/auto-ontology/blob/main/LICENSE",
+      "updated_at": "2026-11-05T01:33:31Z",
+      "pushed_at": "2026-11-04T19:31:19Z",
+      "default_branch": "main",
+      "source_sha": "2a24f5d34ef6b6e168a7f22d308504d3ab36a198",
+      "readme_sha": "464a6484b4dc36cd2120578bc6b6e7dcfe236b23",
+      "fork": {
+        "repository": "qinshanliangengineer/auto-ontology",
+        "url": "https://github.com/qinshanliangengineer/auto-ontology",
+        "exists": true,
+        "parent_matches": true,
+        "compare_status": "identical",
+        "behind_by": 0,
+        "ahead_by": 0,
+        "synced": false
+      }
+    },
+    {
+      "rank": 2,
+      "repository": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "CLI for Git worktree management and parallel development workflows.",
+      "language": "Rust",
+      "stars_today": 531,
+      "stars_total_snapshot": 11053,
+      "license": "MIT OR Apache-2.0",
+      "license_api_classifier": "NOASSERTION; repository LICENSE confirms dual-license terms",
+      "license_file_url": "https://github.com/max-sixty/worktrunk/blob/main/LICENSE",
+      "updated_at": "2026-11-05T01:33:25Z",
+      "pushed_at": "2026-11-04T14:07:58Z",
+      "default_branch": "main",
+      "source_sha": "3bf9166a6e3b74db0de25c2a1f9aeeae54d2873a",
+      "readme_sha": "7dc9e151754e4d5acf1add7d5aa99e69e481b56b",
+      "fork": {
+        "repository": "qinshanliangengineer/worktrunk",
+        "url": "https://github.com/qinshanliangengineer/worktrunk",
+        "exists": true,
+        "parent_matches": true,
+        "compare_status": "behind",
+        "behind_by": 5,
+        "ahead_by": 0,
+        "synced": false
+      }
+    },
+    {
+      "rank": 3,
+      "repository": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Composable, editable engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_today": 1379,
+      "stars_total_snapshot": 313353,
+      "license": "MIT",
+      "license_file_url": "https://github.com/mattpocock/skills/blob/main/LICENSE",
+      "updated_at": "2026-11-05T01:31:38Z",
+      "pushed_at": "2026-11-04T11:45:30Z",
+      "default_branch": "main",
+      "source_sha": "4ae2317ddb22b046e26455e4f9c9b3aaaf62212d",
+      "readme_sha": "f7038f139299985eea6c3e18398dbafb379a0010",
+      "fork": {
+        "repository": "qinshanliangengineer/skills",
+        "url": "https://github.com/qinshanliangengineer/skills",
+        "exists": true,
+        "parent_matches": true,
+        "compare_status": "behind",
+        "behind_by": 495,
+        "ahead_by": 0,
+        "synced": false
+      }
+    },
+    {
+      "rank": 4,
+      "repository": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "Local AWS-compatible emulator for development, testing, and CI.",
+      "language": "Java",
+      "stars_today": 1090,
+      "stars_total_snapshot": 29648,
+      "license": "MIT",
+      "license_file_url": "https://github.com/floci-io/floci/blob/main/LICENSE",
+      "updated_at": "2026-11-05T01:31:16Z",
+      "pushed_at": "2026-11-05T01:29:14Z",
+      "default_branch": "main",
+      "source_sha": "4abccec0c80cb15175a09316a41bb0f16772e881",
+      "readme_sha": "637c2ba2ef52c286d873b70de6ef68b917ed1f91",
+      "fork": {
+        "repository": "qinshanliangengineer/floci",
+        "url": "https://github.com/qinshanliangengineer/floci",
+        "exists": true,
+        "parent_matches": true,
+        "compare_status": "identical",
+        "behind_by": 0,
+        "ahead_by": 0,
+        "synced": false
+      }
+    },
+    {
+      "rank": 5,
+      "repository": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent cross-session memory for coding agents with hooks, local storage, and MCP search.",
+      "language": "TypeScript",
+      "stars_today": 1172,
+      "stars_total_snapshot": 112880,
+      "license": "Apache-2.0",
+      "license_file_url": "https://github.com/thedotmack/claude-mem/blob/main/LICENSE",
+      "updated_at": "2026-11-05T01:32:37Z",
+      "pushed_at": "2026-11-05T00:48:54Z",
+      "default_branch": "main",
+      "source_sha": "d8bf121ae98063e5e3158befff33a9d635c0246b",
+      "readme_sha": "afbb08bc0ddb44611167ce2f4f2e0f59ade6f083",
+      "fork": {
+        "repository": "qinshanliangengineer/claude-mem",
+        "url": "https://github.com/qinshanliangengineer/claude-mem",
+        "exists": true,
+        "parent_matches": true,
+        "compare_status": "behind",
+        "behind_by": 675,
+        "ahead_by": 0,
+        "synced": false
+      }
+    }
+  ],
+  "files": {
+    "report_markdown": "report.md",
+    "report_pdf": "report.pdf",
+    "live_trending_evidence": "trending.html"
+  },
+  "verification": {
+    "pdf_content": "pending",
+    "pdf_render": "pending",
+    "remote_archive": "pending"
+  }
+}
