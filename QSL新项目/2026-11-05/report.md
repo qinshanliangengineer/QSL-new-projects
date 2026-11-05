@@ -92,5 +92,5 @@
 - 实时榜单证据已保存为同目录 trending.html；采集页为 GitHub Trending 当日榜单，不使用缓存榜单或全站总星标排序替代。
 - 五个仓库的 README、仓库 API 元数据、LICENSE（worktrunk 使用 LICENSE 中的双许可证说明）及默认分支 SHA 已核验。API 星标快照分别为 5,096、11,053、313,353、29,648、112,880；源 SHA 与采集内容一同记录在 manifest.json。
 - 五个账号内同名仓库均为真实 fork，parent 与榜单源仓库匹配。为避免覆盖用户修改，本次不执行同步；worktrunk 落后 5 个提交、skills 落后 495 个提交、claude-mem 落后 675 个提交，auto-ontology 和 floci 与上游一致。
-- GitHub 汇总仓库 qinshanliangengineer/QSL-new-projects 已确认是公开仓库，写入前 main 分支头为 3eedfe6f67e28dfce63cddbb50bccbbd5201ff84，当日目录此前不存在。远端归档结果将在提交后核验；本地文件生成不等于远端已上传。
+- GitHub 汇总仓库 [qinshanliangengineer/QSL-new-projects](https://github.com/qinshanliangengineer/QSL-new-projects) 是公开仓库。本地 report.md、report.pdf 和 manifest.json 已提交至 QSL新项目/2026-11-05/，根 README 日报索引已加入日期入口；远端文件会在提交后逐项核验。复刻状态只表示 fork parent 和分支差异检查结果，不代表落后 fork 已同步。
 

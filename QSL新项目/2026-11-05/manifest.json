@@ -20,9 +20,11 @@
     "directory": "QSL新项目/2026-11-05/",
     "branch": "main",
     "head_before_write": "3eedfe6f67e28dfce63cddbb50bccbbd5201ff84",
-    "status": "pending",
-    "content_commit": null,
-    "index_updated": false
+    "status": "uploaded",
+    "content_commit": "3d8da0bc7c8d1342b4ed7665787f5a09574943ba",
+    "initial_commit": "3d8da0bc7c8d1342b4ed7665787f5a09574943ba",
+    "index_updated": true,
+    "remote_verified_at": null
   },
   "projects": [
     {
@@ -163,8 +165,8 @@
     "live_trending_evidence": "trending.html"
   },
   "verification": {
-    "pdf_content": "pending",
-    "pdf_render": "pending",
-    "remote_archive": "pending"
+    "pdf_content": "passed",
+    "pdf_render": "passed",
+    "remote_archive": "pending_final_verification"
   }
 }
