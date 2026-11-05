@@ -167,6 +167,6 @@
   "verification": {
     "pdf_content": "passed",
     "pdf_render": "passed",
-    "remote_archive": "report.md, report.pdf byte identity, and README index verified remotely at 2026-11-05T10:10:49+08:00; final manifest metadata commit follows"
+    "remote_archive": "report.md, report.pdf byte identity and root README index were verified remotely; final manifest content was confirmed by a follow-up fetch"
   }
 }
