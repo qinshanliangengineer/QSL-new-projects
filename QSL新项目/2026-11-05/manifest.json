@@ -21,10 +21,10 @@
     "branch": "main",
     "head_before_write": "3eedfe6f67e28dfce63cddbb50bccbbd5201ff84",
     "status": "uploaded",
-    "content_commit": "3d8da0bc7c8d1342b4ed7665787f5a09574943ba",
+    "content_commit": "9aaaaecafe346ee9213b8d5403a3ae05ad5343c5",
     "initial_commit": "3d8da0bc7c8d1342b4ed7665787f5a09574943ba",
     "index_updated": true,
-    "remote_verified_at": null
+    "remote_verified_at": "2026-11-05T10:10:49+08:00"
   },
   "projects": [
     {
@@ -167,6 +167,6 @@
   "verification": {
     "pdf_content": "passed",
     "pdf_render": "passed",
-    "remote_archive": "pending_final_verification"
+    "remote_archive": "report.md, report.pdf byte identity, and README index verified remotely at 2026-11-05T10:10:49+08:00; final manifest metadata commit follows"
   }
 }
